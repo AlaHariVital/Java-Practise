@@ -5,7 +5,7 @@ package Strings;
 
 import java.util.Scanner;
 
-public class IsSubString {
+public class SubStringSearch {
 	public static void main(String args[]) {
 		String str;
 		Scanner sc = new Scanner(System.in);
