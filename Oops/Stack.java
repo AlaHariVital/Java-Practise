@@ -1,3 +1,26 @@
+/*
+ Sample Input:
+     Enter a a few comma separated integers (Ex: 1,7,4)
+     1,2,3,4,5
+     Expected Output:
+     Fixed Stack Overflows. Failed to push the integer:4
+     Dynamic Stack Overflow. Increasing the stack length...Done
+     Fixed Stack Overflows. Failed to push the integer:5
+     Dynamic Stack Overflow. Increasing the stack length...Done
+     Printing all elements of Fixed Stack
+     3
+     2
+     1
+     Printing all elements of Dynamic Stack
+     5
+     4
+     3
+     2
+     1
+*/
+
+
+
 package OOPs;
 
 import java.util.Scanner;
