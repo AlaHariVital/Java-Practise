@@ -75,7 +75,7 @@ class DynamicStack implements MyStack{
 
 
 
-public class Stack {
+public class InterfaceStack {
 	public static void main(String args[]) {
 		System.out.println("Enter a few comma separated integers (Ex: 1,7,4)");
 		Scanner sc =new Scanner(System.in);
